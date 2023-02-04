@@ -1,5 +1,7 @@
 # Java-Lab-004
 
+* In this lab, edit/add/update the given code to complete all parts.
+
 ## Part 1: SimpleMethod.java
 * Add a method square() to SimpleMethod.java that takes a single argument and prints the result of squaring its integer parameter.
 
