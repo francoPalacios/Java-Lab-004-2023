@@ -21,7 +21,7 @@
     * HINT: radians = degrees * PI / 180
 * In the main function, compare your method's results to the Math.toRadians and Math.toDegrees methods by printing to the console. 
 
-### Part 5 - Submission
+## Part 5 - Submission
 * Create a feature branch (i.e. Spring2023)
 * Commit your working code
 * Push it to your Remote/origin branch (i.e. GitHub)
